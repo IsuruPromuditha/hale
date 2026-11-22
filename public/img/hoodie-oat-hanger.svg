@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" fill="none">
+  <rect width="600" height="800" fill="#ECE8E0"/>
+  <radialGradient id="wallLight" cx="50%" cy="32%" r="65%">
+    <stop offset="0%" stop-color="#F7F5F0" stop-opacity="0.95"/>
+    <stop offset="100%" stop-color="#DFDAD0" stop-opacity="0.7"/>
+  </radialGradient>
+  <rect width="600" height="800" fill="url(#wallLight)"/>
+
+  <!-- Soft wall shadow -->
+  <ellipse cx="305" cy="465" rx="185" ry="230" fill="#141413" fill-opacity="0.06"/>
+
+  <!-- Metal hanger hook -->
+  <path d="M300 105 C300 72, 326 62, 336 82 C343 96, 327 110, 312 114 C303 116, 300 124, 300 134" stroke="#5B574F" stroke-width="4.5" stroke-linecap="round"/>
+
+  <!-- Sculpted Oak Wooden Hanger -->
+  <path d="M300 132 L182 192 C173 196, 173 207, 184 209 L300 165 L416 209 C427 207, 427 196, 418 192 Z" fill="#8C6D46"/>
+  <path d="M300 132 L182 192 L300 153 L418 192 Z" fill="#A58459" fill-opacity="0.65"/>
+
+  <!-- Sleeves (Left & Right) -->
+  <path d="M180 218 L112 372 L106 540 L152 544 L172 394 L196 310 Z" fill="#D5CCB9" stroke="#C0B6A2" stroke-width="1.5"/>
+  <path d="M420 218 L488 372 L494 540 L448 544 L428 394 L404 310 Z" fill="#CFC6B3" stroke="#BAB09B" stroke-width="1.5"/>
+
+  <!-- Ribbed Cuffs -->
+  <rect x="106" y="532" width="46" height="32" rx="3" transform="rotate(3 106 532)" fill="#C6BCA7"/>
+  <rect x="448" y="534" width="46" height="32" rx="3" transform="rotate(-3 448 534)" fill="#BFB5A0"/>
+
+  <!-- Hoodie Torso -->
+  <linearGradient id="oatFabric" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#E4DCCB"/>
+    <stop offset="55%" stop-color="#D9D0BE"/>
+    <stop offset="100%" stop-color="#C9BFA9"/>
+  </linearGradient>
+  <path d="M196 202 C226 184, 374 184, 404 202 L426 226 L418 592 C418 602, 408 608, 396 608 L204 608 C192 608, 182 602, 182 592 L174 226 Z" fill="url(#oatFabric)" stroke="#BDB39E" stroke-width="1.5"/>
+
+  <!-- Double-lined Hood -->
+  <path d="M226 196 C234 148, 266 130, 300 130 C334 130, 366 148, 374 196 C356 226, 326 244, 300 244 C274 244, 244 226, 226 196 Z" fill="#CFC6B3" stroke="#B7AD98" stroke-width="1.5"/>
+  <path d="M244 192 C256 164, 276 154, 300 154 C324 154, 344 164, 356 192 C340 218, 320 228, 300 228 C280 228, 260 218, 244 192 Z" fill="#B8AF9B"/>
+  <path d="M266 206 C284 226, 316 226, 334 206" stroke="#9F9682" stroke-width="1.8" stroke-linecap="round"/>
+
+  <!-- Kangaroo Pocket -->
+  <path d="M220 452 L380 452 L392 554 L208 554 Z" fill="#D2C8B5" stroke="#B9AF9A" stroke-width="1.4"/>
+  <path d="M220 452 L208 554 M380 452 L392 554" stroke="#B0A691" stroke-width="1.2" stroke-dasharray="3 3"/>
+
+  <!-- Ribbed Hem -->
+  <rect x="182" y="578" width="236" height="32" rx="4" fill="#C6BCA7" stroke="#B3A994" stroke-width="1.2"/>
+  <line x1="205" y1="582" x2="205" y2="606" stroke="#B5AB97" stroke-width="1"/>
+  <line x1="245" y1="582" x2="245" y2="606" stroke="#B5AB97" stroke-width="1"/>
+  <line x1="285" y1="582" x2="285" y2="606" stroke="#B5AB97" stroke-width="1"/>
+  <line x1="325" y1="582" x2="325" y2="606" stroke="#B5AB97" stroke-width="1"/>
+  <line x1="365" y1="582" x2="365" y2="606" stroke="#B5AB97" stroke-width="1"/>
+
+  <!-- Subtle textile drape lines -->
+  <path d="M214 260 C216 320, 210 380, 206 432" stroke="#C5BBAA" stroke-width="1.3" stroke-linecap="round"/>
+  <path d="M386 260 C384 320, 390 380, 394 432" stroke="#C0B6A2" stroke-width="1.3" stroke-linecap="round"/>
+</svg>

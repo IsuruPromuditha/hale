@@ -1,0 +1,340 @@
+{
+  "products": [
+    {
+      "id": "hale-01",
+      "sku": "HL-A26-01",
+      "sortOrder": 1,
+      "name": "Hoodie",
+      "colorVariant": "in Oat",
+      "category": "Jersey",
+      "price": 120,
+      "description": "Cut from 480gsm unbrushed organic loopback cotton knitted in Barcelos. Double-lined hood, dropped shoulder seam, and dense tubular ribbing that holds its architecture after years of wear.",
+      "material": "100% Organic Loopback Cotton, 480gsm",
+      "fit": "Relaxed box cut, true to shoulder",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "frontImage": "/img/hoodie-oat-hanger.svg",
+      "flatImage": "/src/assets/images/hale_model_base_1795355191368.jpg",
+      "modelImage": "/src/assets/images/hale_dummy_hoodie_oat_1795356737763.jpg",
+      "modelOverlayMode": "native",
+      "swatchHex": "#DDD5C4",
+      "isPublished": true,
+      "inventory": {
+        "XS": 6,
+        "S": 8,
+        "M": 11,
+        "L": 7,
+        "XL": 5
+      },
+      "updatedAt": "2026-11-22T14:49:32.728Z"
+    },
+    {
+      "id": "hale-02",
+      "sku": "HL-A26-02",
+      "sortOrder": 2,
+      "name": "Overshirt",
+      "colorVariant": "in Slate",
+      "category": "Shirting",
+      "price": 165,
+      "description": "Brushed Japanese cotton twill with a dry flannel handfeel. Finished with smoked horn buttons, twin utility chest pockets, and felled side seams built to bridge shirting and light outerwear.",
+      "material": "100% Brushed Japanese Cotton Twill, 310gsm",
+      "fit": "Easy straight cut, layered drape",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "frontImage": "/src/assets/images/hale_overshirt_slate_1795355189702.jpg",
+      "flatImage": "/src/assets/images/hale_coast_moment_1795355189749.jpg",
+      "modelImage": "/src/assets/images/hale_dummy_overshirt_slate_1795356737384.jpg",
+      "modelOverlayMode": "native",
+      "swatchHex": "#5A5E63",
+      "isPublished": true,
+      "inventory": {
+        "XS": 3,
+        "S": 6,
+        "M": 9,
+        "L": 5,
+        "XL": 2
+      }
+    },
+    {
+      "id": "hale-03",
+      "sku": "HL-A26-03",
+      "sortOrder": 3,
+      "name": "Camp Shirt",
+      "colorVariant": "in Ecru",
+      "category": "Shirting",
+      "price": 135,
+      "description": "Woven from unbleached Normandy flax linen and combed cotton in an open slub weave. Tailored with a soft one-piece camp collar, mother-of-pearl buttons, and straight hem with side vents.",
+      "material": "55% Normandy Linen, 45% Combed Cotton",
+      "fit": "Airy boxy drape",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "frontImage": "/src/assets/images/hale_camp_ecru_1795355190403.jpg",
+      "flatImage": "/src/assets/images/hale_coast_moment_1795355189749.jpg",
+      "modelImage": "/src/assets/images/hale_dummy_camp_ecru_1795356737552.jpg",
+      "modelOverlayMode": "native",
+      "swatchHex": "#EAE3D2",
+      "isPublished": true,
+      "inventory": {
+        "XS": 5,
+        "S": 9,
+        "M": 12,
+        "L": 8,
+        "XL": 4
+      }
+    },
+    {
+      "id": "hale-04",
+      "sku": "HL-A26-04",
+      "sortOrder": 4,
+      "name": "Chore Jacket",
+      "colorVariant": "in Olive",
+      "category": "Outerwear",
+      "price": 240,
+      "description": "Our benchmark workshop silhouette in dry-waxed Scottish organic cotton canvas. Unlined for year-round layering with three reinforced patch pockets, internal blueprint pocket, and corozo nut buttons.",
+      "material": "100% Dry-Waxed Organic Canvas, 410gsm",
+      "fit": "Structured utility block",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "frontImage": "/src/assets/images/hale_chore_olive_1795355190250.jpg",
+      "flatImage": "/src/assets/images/hale_lookbook_courtyard_1795355191531.jpg",
+      "modelImage": "/src/assets/images/hale_dummy_chore_olive_1795356737699.jpg",
+      "modelOverlayMode": "native",
+      "swatchHex": "#595F45",
+      "isPublished": true,
+      "inventory": {
+        "XS": 2,
+        "S": 5,
+        "M": 6,
+        "L": 4,
+        "XL": 2
+      }
+    },
+    {
+      "id": "hale-05",
+      "sku": "HL-A26-05",
+      "sortOrder": 5,
+      "name": "Overcoat",
+      "colorVariant": "in Espresso",
+      "category": "Outerwear",
+      "price": 460,
+      "description": "Hand-finished double-faced Italian virgin wool overcoat with zero interior lining for fluid movement. Softly roped shoulders, notched lapel, deep horn-buttoned pockets, and rear walking vent.",
+      "material": "100% Double-Faced Italian Virgin Wool, 620gsm",
+      "fit": "Tailored longline over-layer",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "frontImage": "/src/assets/images/hale_overcoat_espresso_1795355190181.jpg",
+      "flatImage": "/src/assets/images/hale_model_outerwear_1795355189687.jpg",
+      "modelImage": "/src/assets/images/hale_dummy_overcoat_espresso_1795356737453.jpg",
+      "modelOverlayMode": "native",
+      "swatchHex": "#3D2E27",
+      "isPublished": true,
+      "inventory": {
+        "XS": 1,
+        "S": 3,
+        "M": 4,
+        "L": 3,
+        "XL": 1
+      }
+    },
+    {
+      "id": "hale-06",
+      "sku": "HL-A26-06",
+      "sortOrder": 6,
+      "name": "Cable Knit",
+      "colorVariant": "in Charcoal",
+      "category": "Knitwear",
+      "price": 195,
+      "description": "Knitted on 5-gauge whole-garment frames in Hawick from extra-fine Scottish merino wool. Traditional diamond and honeycomb cable reliefs retain warmth without bulk.",
+      "material": "100% Scottish Extra-Fine Merino Wool",
+      "fit": "Classic saddle-shoulder fit",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "frontImage": "/src/assets/images/hale_cable_charcoal_1795355190325.jpg",
+      "flatImage": "/src/assets/images/hale_coast_moment_1795355189749.jpg",
+      "modelImage": "/src/assets/images/hale_dummy_cable_charcoal_1795356737882.jpg",
+      "modelOverlayMode": "native",
+      "swatchHex": "#3A3B3D",
+      "isPublished": true,
+      "inventory": {
+        "XS": 3,
+        "S": 7,
+        "M": 8,
+        "L": 6,
+        "XL": 3
+      }
+    },
+    {
+      "id": "hale-07",
+      "sku": "HL-A26-07",
+      "sortOrder": 7,
+      "name": "Shirt Jacket",
+      "colorVariant": "in Navy",
+      "category": "Outerwear",
+      "price": 225,
+      "description": "Crisp high-twist wool-gabardine cut cleanly with a concealed button placket and single welt breast pocket. Water-repellent finish resists light Atlantic drizzle from desk to street.",
+      "material": "100% High-Twist Wool Gabardine, 340gsm",
+      "fit": "Clean tailored boxy cut",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "frontImage": "/src/assets/images/hale_shirtjacket_navy_1795355190011.jpg",
+      "flatImage": "/src/assets/images/hale_workshop_table_1795355192431.jpg",
+      "modelImage": "/src/assets/images/hale_dummy_shirtjacket_navy_1795356737826.jpg",
+      "modelOverlayMode": "native",
+      "swatchHex": "#1F2A3C",
+      "isPublished": true,
+      "inventory": {
+        "XS": 2,
+        "S": 5,
+        "M": 7,
+        "L": 5,
+        "XL": 2
+      }
+    },
+    {
+      "id": "hale-08",
+      "sku": "HL-A26-08",
+      "sortOrder": 8,
+      "name": "Bomber",
+      "colorVariant": "in Umber",
+      "category": "Outerwear",
+      "price": 280,
+      "description": "Minimalist blouson in matte Japanese cupro-nylon with subtle sheen and peach-skin handfeel. Two-way brushed gunmetal zipper, cotton-ribbed trims, and cupro twill lining.",
+      "material": "62% Cupro, 38% Japanese Nylon Twill",
+      "fit": "Cropped blouson silhouette",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "frontImage": "/src/assets/images/hale_bomber_umber_1795355190041.jpg",
+      "flatImage": "/src/assets/images/hale_banner_morning_1795355190035.jpg",
+      "modelImage": "/src/assets/images/hale_dummy_bomber_umber_1795356738286.jpg",
+      "modelOverlayMode": "native",
+      "swatchHex": "#633728",
+      "isPublished": true,
+      "inventory": {
+        "XS": 2,
+        "S": 4,
+        "M": 5,
+        "L": 4,
+        "XL": 2
+      }
+    },
+    {
+      "id": "hale-mwryq4ik",
+      "sku": "HL-A26-09",
+      "sortOrder": 9,
+      "name": "Cardigan_sage",
+      "colorVariant": "in Slate",
+      "category": "Outerwear",
+      "price": 180,
+      "description": "",
+      "material": "100% Organic Cotton",
+      "fit": "Relaxed tailored fit",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "frontImage": "/src/assets/images/hale_sample_cardigan_sage_1795358429503.jpg",
+      "flatImage": "/src/assets/images/hale_coast_moment_1795355189749.jpg",
+      "modelImage": "/src/assets/images/hale_sample_dummy_cardigan_sage_1795358429618.jpg",
+      "modelOverlayMode": "composite",
+      "swatchHex": "#5A5E63",
+      "isPublished": true,
+      "inventory": {
+        "XS": 2,
+        "S": 4,
+        "M": 6,
+        "L": 4,
+        "XL": 2
+      },
+      "updatedAt": "2026-11-22T14:59:17.478Z"
+    }
+  ],
+  "cms": {
+    "seasonLabel": "Autumn 26",
+    "railTitle": "The Autumn Rail",
+    "railSubtitle": "Eight quiet garments cut in small runs in northern Portugal. Brush along the rail, scroll to turn each hanger forward, or lift one off to inspect the cloth.",
+    "tryOnTitle": "One dummy, eight pieces.",
+    "tryOnSubtitle": "Same linen tailor’s dummy, same charcoal pleated wool trousers, same black derby shoes. Click any piece one by one or scroll to fit each garment directly onto the dummy statue.",
+    "outDoorHeadline": "Out the door by eight.",
+    "outDoorSubline": "Double-faced wool, waxed cotton, and unbleached linen built for early mornings before the street wakes.",
+    "lookbookKicker": "Lookbook — 01",
+    "lookbookTitle": "Worn, not styled.",
+    "lookbookBody": "The waxed olive Chore Jacket layered straight over a heavy jersey tee and pleated wool trousers. Nothing tucked for effect, nothing pressed stiff—garments meant to soften around the wearer.",
+    "lookbookFeaturedProductId": "hale-04",
+    "studioTitle": "Cut once. Worn for years.",
+    "studioBody": "Every HALE pattern begins on brown kraft paper at our Cedofeita cutting table in Porto. We produce each cloth in numbered runs of forty to sixty pieces, finish interior seams cleanly enough to wear inside-out, and mend anything we make for the life of the garment.",
+    "outInItTitle": "Clothes for ordinary days.",
+    "freeShippingThreshold": 250,
+    "studioAddress": "The studio, Porto",
+    "studioDays": "Thursday to Saturday",
+    "studioHours": "11:00 – 19:00"
+  },
+  "orders": [
+    {
+      "id": "ord-seed-1041",
+      "orderNumber": "HALE-1041",
+      "customerName": "Henrique Almeida",
+      "customerEmail": "henrique@atelier-porto.pt",
+      "shippingAddress": "Rua de Cedofeita 412, 4050-175 Porto, Portugal",
+      "status": "Cancelled",
+      "subtotal": 240,
+      "shippingFee": 0,
+      "total": 240,
+      "items": [
+        {
+          "productId": "hale-04",
+          "sku": "HL-A26-04",
+          "name": "Chore Jacket",
+          "colorVariant": "in Olive",
+          "size": "M",
+          "quantity": 1,
+          "unitPrice": 240
+        }
+      ],
+      "createdAt": "2026-11-20T14:33:42.790Z"
+    }
+  ],
+  "adminHash": "ae544ee1b05d789c1a4592d030a497f1:978fe5716139a86a24e73f17a888bb4a8bd021d8131c168ddaa494e556287bbde3d96e82049ad6b9e8a214211cb31251c2d24f7f58a496299dbbcfcd9ef14d73"
+}

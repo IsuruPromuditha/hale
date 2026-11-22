@@ -1,0 +1,6 @@
+{
+  "name": "HALE",
+  "description": "Minimalist editorial menswear storefront with 3D perspective garment rail, scroll-driven fitting studio, headless CMS, and phpMyAdmin/MySQL inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
