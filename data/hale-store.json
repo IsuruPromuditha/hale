@@ -25,13 +25,13 @@
       "swatchHex": "#DDD5C4",
       "isPublished": true,
       "inventory": {
-        "XS": 6,
+        "XS": 8,
         "S": 8,
         "M": 11,
         "L": 7,
         "XL": 5
       },
-      "updatedAt": "2026-11-22T14:49:32.728Z"
+      "updatedAt": "2026-11-22T17:08:25.740Z"
     },
     {
       "id": "hale-02",
@@ -62,8 +62,9 @@
         "S": 6,
         "M": 9,
         "L": 5,
-        "XL": 2
-      }
+        "XL": 1
+      },
+      "updatedAt": "2026-11-22T17:09:18.182Z"
     },
     {
       "id": "hale-03",
@@ -122,12 +123,13 @@
       "swatchHex": "#595F45",
       "isPublished": true,
       "inventory": {
-        "XS": 2,
+        "XS": 1,
         "S": 5,
         "M": 6,
         "L": 4,
         "XL": 2
-      }
+      },
+      "updatedAt": "2026-11-22T17:09:18.182Z"
     },
     {
       "id": "hale-05",
@@ -250,12 +252,13 @@
       "swatchHex": "#633728",
       "isPublished": true,
       "inventory": {
-        "XS": 2,
+        "XS": 0,
         "S": 4,
         "M": 5,
         "L": 4,
         "XL": 2
-      }
+      },
+      "updatedAt": "2026-11-22T17:09:18.182Z"
     },
     {
       "id": "hale-mwryq4ik",
@@ -284,11 +287,44 @@
       "inventory": {
         "XS": 2,
         "S": 4,
+        "M": 5,
+        "L": 4,
+        "XL": 2
+      },
+      "updatedAt": "2026-11-22T17:09:18.182Z"
+    },
+    {
+      "id": "hale-mws3bzgb",
+      "sku": "HL-A26-10",
+      "sortOrder": 10,
+      "name": "hale_overshirt",
+      "colorVariant": "in Slate",
+      "category": "Outerwear",
+      "price": 180,
+      "description": "",
+      "material": "100% Organic Cotton",
+      "fit": "Relaxed tailored fit",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "frontImage": "/src/assets/images/hale_overshirt_slate_1795355189702.jpg",
+      "flatImage": "/src/assets/images/hale_coast_moment_1795355189749.jpg",
+      "modelImage": "/src/assets/images/hale_overshirt_slate_1795355189702.jpg",
+      "modelOverlayMode": "composite",
+      "swatchHex": "#5A5E63",
+      "isPublished": true,
+      "inventory": {
+        "XS": 2,
+        "S": 4,
         "M": 6,
         "L": 4,
         "XL": 2
       },
-      "updatedAt": "2026-11-22T14:59:17.478Z"
+      "updatedAt": "2026-11-22T17:08:15.812Z"
     }
   ],
   "cms": {
@@ -313,12 +349,62 @@
   },
   "orders": [
     {
+      "id": "ord-mws3dbk5-cb18",
+      "orderNumber": "HALE-5120",
+      "customerName": "Anthoni Isuru Pramuditha Jayasooriya",
+      "customerEmail": "isurupromuditha617@gmail.com",
+      "shippingAddress": "Matugama\nMeegahathanna",
+      "status": "Pending",
+      "subtotal": 1145,
+      "shippingFee": 0,
+      "total": 1145,
+      "items": [
+        {
+          "productId": "hale-08",
+          "sku": "HL-A26-08",
+          "name": "Bomber",
+          "colorVariant": "in Umber",
+          "size": "XS",
+          "quantity": 2,
+          "unitPrice": 280
+        },
+        {
+          "productId": "hale-02",
+          "sku": "HL-A26-02",
+          "name": "Overshirt",
+          "colorVariant": "in Slate",
+          "size": "XL",
+          "quantity": 1,
+          "unitPrice": 165
+        },
+        {
+          "productId": "hale-mwryq4ik",
+          "sku": "HL-A26-09",
+          "name": "Cardigan_sage",
+          "colorVariant": "in Slate",
+          "size": "M",
+          "quantity": 1,
+          "unitPrice": 180
+        },
+        {
+          "productId": "hale-04",
+          "sku": "HL-A26-04",
+          "name": "Chore Jacket",
+          "colorVariant": "in Olive",
+          "size": "XS",
+          "quantity": 1,
+          "unitPrice": 240
+        }
+      ],
+      "createdAt": "2026-11-22T17:09:18.178Z"
+    },
+    {
       "id": "ord-seed-1041",
       "orderNumber": "HALE-1041",
       "customerName": "Henrique Almeida",
       "customerEmail": "henrique@atelier-porto.pt",
       "shippingAddress": "Rua de Cedofeita 412, 4050-175 Porto, Portugal",
-      "status": "Cancelled",
+      "status": "Shipped",
       "subtotal": 240,
       "shippingFee": 0,
       "total": 240,
